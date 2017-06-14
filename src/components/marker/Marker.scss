@@ -1,0 +1,15 @@
+.weather-marker {
+  position: relative;
+  color: white;
+  background: #464343;
+  min-height: 30px;
+  min-width: 120px;
+  border: 1px solid #fff;
+  font-size: 14px;
+  padding: 0px 0px 0px 5px;
+}
+
+.weather-marker img {
+  width: 33px;
+  height: 33px;
+}
